@@ -1,2 +1,14 @@
-# DNL_INL_CALCULATION_SCRIPT
-This script is used to calculate the dnl and inl metrics of a DAC and evaluate if they are in range of +-1LSB. This is part of our VLSI Design Project with topic "R-2R 'Ladder' DAC" for the winter semester 2025-2026, AuTh.
+
+>>> R-2R "Ladder" DAC - Σχεδίαση Συστημάτων VLSI <<<
+ ---------- Καλαντζής Βασίλειος - 10856 ----------
+ ------------- Κατσάρος Ζήσης - 10666 ------------
+>>>                   ΑΠΘ, ΤΗΜΜΥ                 <<<
+
+
+
+Για να τρέξετε το dnl/ inl script, 
+χρειάζεται να έχετε το script.py και τα .cvs αρχεία 
+στον ίδιο φάκελο. 
+Αφού αλλάξετε το FILENAME (γρ. 7) στο όνομα του αρχείου
+για το οποίο θέλετε να υπολογίσετε dnl και inl μπορείτε 
+να τρέξετε το script.
